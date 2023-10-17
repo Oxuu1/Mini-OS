@@ -11,14 +11,23 @@ Working c# windows os that lets you do stuff
 
 help
 filesystem.check(%) - List files in the virtual file syste
+
 filesystem.createfile(%filename%) - Create a file in the virtual file system
+
 filesystem.deletefile(%filename%) - Delete a file from the virtual file system
+
 play.snake - Play a text-based Snake game
+
 animate - Play a simple animation
+
 clear - Clear the screen
+
 extcolor(%color%) - Change the text color (e.g., textcolor(red)
+
 sayhello - Greet the user
+
 currenttime - Display the current time"
+
 randomnumber - Generate and display a random number
 
 # Bugs 
